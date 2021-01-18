@@ -8,3 +8,5 @@ Name: Sebastian Fave
 ## Module 2 - Installing Your Tools
 
 ## Module 3 - Deploy Today
+
+## Module 4 - HTML Basics

@@ -1,0 +1,24 @@
+/* Tags */
+a {
+  text-decoration: none;
+}
+
+figure {
+  display: inline-block;
+}
+
+figure figcaption {
+  text-align: center;
+}
+
+h2 {
+  margin-top: 2em;
+}
+
+table {
+  border-spacing: 20px 5px;
+}
+
+/* Classes */
+
+/* IDs */
