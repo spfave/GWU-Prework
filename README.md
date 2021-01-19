@@ -10,3 +10,7 @@ Name: Sebastian Fave
 ## Module 3 - Deploy Today
 
 ## Module 4 - HTML Basics
+
+## Module 5 - CSS basics
+
+## Module 6 - Javascript Basics
