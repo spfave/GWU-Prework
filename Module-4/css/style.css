@@ -4,21 +4,51 @@ a {
 }
 
 figure {
-  display: inline-block;
+  margin: auto;
 }
 
 figure figcaption {
   text-align: center;
 }
 
+footer {
+  margin: 2em auto 1em;
+  text-align: center;
+  width: 700px;
+}
+
 h2 {
   margin-top: 2em;
 }
 
+main {
+  margin: auto;
+  text-align: center;
+  width: 700px;
+}
+
 table {
-  border-spacing: 20px 5px;
+  border-spacing: 40px 5px;
+}
+
+td {
+  text-align: start;
 }
 
 /* Classes */
+.align-center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.page-title {
+  font-size: 3em;
+  font-weight: bold;
+}
+
+.text-left {
+  text-align: start;
+  width: 600px;
+}
 
 /* IDs */
