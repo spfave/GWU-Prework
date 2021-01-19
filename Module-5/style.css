@@ -1,0 +1,49 @@
+/* Tags */
+
+/* Classes */
+.text-center {
+  text-align: center;
+}
+
+.text-blue {
+  color: blue;
+}
+.text-green {
+  color: green;
+}
+.text-orange {
+  color: orange;
+}
+.text-red {
+  color: red;
+}
+
+.text-big {
+  font-size: xx-large;
+}
+.text-small {
+  font-size: xx-small;
+}
+
+.text-bold {
+  font-weight: bold;
+}
+.text-family {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.styledFont {
+  color: green;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: larger;
+  text-align: right;
+  text-decoration: underline;
+  font-style: italic;
+}
+
+/* IDs */
+#styledImage {
+  border-color: black grey;
+  border-style: solid dashed;
+  border-width: 5px 7px;
+}
