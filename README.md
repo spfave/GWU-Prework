@@ -14,3 +14,5 @@ Name: Sebastian Fave
 ## Module 5 - CSS basics
 
 ## Module 6 - Javascript Basics
+
+## Module 7 - Programming Logic Basics
