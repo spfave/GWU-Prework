@@ -16,3 +16,5 @@ Name: Sebastian Fave
 ## Module 6 - Javascript Basics
 
 ## Module 7 - Programming Logic Basics
+
+## Module 8 - Debugging Basics
