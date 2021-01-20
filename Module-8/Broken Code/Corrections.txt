@@ -1,0 +1,84 @@
+GWU Web Dev Bootcamp
+Prework Module-8
+
+The Boo-Boos in Boos Website:
+
+# In 'BooTheDog.html':
+
+1. In the website body top div, "Boo The Dog Fan Page!" was not enclosed in a header1 (<h1>) set of tags and thus css styling was not applied. 
+
+    was: Boo The Dog Fan Page!
+    mod: <h1>Boo The Dog Fan Page!</h1>
+
+2. In the 'About Boo' section, paragraphs were not separated using paragraph (<p>) tags. 
+
+    was:
+        ... 
+    mod: 
+        <p>...</p>
+        <p>...</p>
+        <p>...</p>
+        <p>...</p>
+
+3. In the 'About Boo' section, the anchor (<a>) tag did not include the wikipedia link in the hyperlink (href) attribute.
+
+    was: <a	href="">...</a>
+    mod: <a	href="https://en.wikipedia.org/wiki/Boo_(dog)">...</a>
+
+4. The image (<img>) tag to show a picture of Boo the Dog did not have opening and closing tag brackets, '<' and '>' respectively. As a result the image object was not correctly interpreted and rendered as a picture, but instead the HTML source code was rendered as text. 
+
+    was: img class="..." src="..."
+    mod: <img class="..." src="...">
+
+5. In the 'List of Boo's Favorite Things' section, the ordered list (<ol>) items were not enclosed in list item (<li>) tags to be rendered as individual list items. As a result the list items were listed in a single row. 
+
+    was:
+        <ol>
+            Dressing Up
+            Eating Grass
+            Sleeping
+            Swimming
+            Hiking
+        </ol>
+    mod:
+        <ol>
+            <li>Dressing Up</li>
+            <li>Eating Grass</li>
+            <li>Sleeping</li>
+            <li>Swimming</li>
+            <li>Hiking</li>
+        </ol>
+
+6. In the 'Boo Rules' text color choice section, the color selection button IDs and button text did not match up. As a result with connection to the logic.js javascript code the button would produce a text color change inconsistent with its label. 
+
+    was:
+        <button class="btn" id="textGreen">Orange</button>
+        <button class="btn" id="textOrange">Pink</button>
+        <button class="btn" id="textPink">Green</button>
+    mod: 
+        <button class="btn" id="textGreen">Green</button>
+        <button class="btn" id="textOrange">Orange</button>
+        <button class="btn" id="textPink">Pink</button>
+
+7. The script (<script>) tag included the incorrect javascript source file name ('error.js' instead of 'logic.js') for the source (src) attribute. 
+
+    was: <script ... src="error.js"></script>
+    mod: <script ... src="logic.js"></script>
+
+
+# In 'logic.js':
+
+1. The variable 'booFacts' was an array of a single string. The individual facts were not enclosed in their own pair of double quotes ("") and separated by commas (,) to properly define an array of multiple facts. 
+
+    was: ["Boo is a pomeranian, Boo's best friend is another pomeranian named Buddy, Boo the Pomeranian was born on March 16, making him a Pisces, Boo's favourite food is grass, Boo has released two books"]
+    mod: ["Boo is a pomeranian", "Boo's best friend is another pomeranian named Buddy", "Boo the Pomeranian was born on March 16, making him a Pisces", "Boo's favourite food is grass", "Boo has released two books"]
+
+2. For the '#textPink' jquery click event function the css style color change command did not have double quotes ("") around the css color name. 
+
+    was: ....css(..., pink)
+    mod: ....css(..., "pink")
+
+3. For the '#boxGrow' and '#boxShrink' jquery click event functions the definition of a click event listener was not enclosed in double quotes (""). 
+
+    was: ....on(click, ...)
+    mod: ....on("click", ...)
