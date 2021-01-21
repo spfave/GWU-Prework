@@ -18,3 +18,17 @@ Name: Sebastian Fave
 ## Module 7 - Programming Logic Basics
 
 ## Module 8 - Debugging Basics
+
+## Module 9 - What is a Web Developer
+
+## Module 10 - How to Succeed in This Course
+
+## Module 11 - Becoming Employable
+
+## Module 12 - Type Like a Pro
+
+## Module 13 - Whiteboarding
+
+## Module 14 - Be Original
+
+## Module 15 - What Next?
