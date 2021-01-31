@@ -36,7 +36,7 @@ Name: Sebastian Fave
 ## Module 7 - Programming Logic Basics
 
 - Deliverable: Text file with link to game developed on Scratch website
--
+- complete
 
 ## Module 8 - Debugging Basics
 
