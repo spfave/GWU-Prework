@@ -56,17 +56,17 @@ Name: Sebastian Fave
 ## Module 11 - Becoming Employable
 
 - Deliverable: n/a - Create accounts with professional websites
-- Sign up for Angle List
+- complete
 
 ## Module 12 - Type Like a Pro
 
 - Deliverable: Image files of completing typing test
 -
 
-## Module 13 - Whiteboarding
+## Module 13 - White boarding
 
 - Deliverable: n/a - Review white boarding interview process
--
+- complete
 
 ## Module 14 - Be Original
 
