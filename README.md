@@ -61,7 +61,7 @@ Name: Sebastian Fave
 ## Module 12 - Type Like a Pro
 
 - Deliverable: Image files of completing typing test
--
+- complete
 
 ## Module 13 - White boarding
 
