@@ -51,7 +51,7 @@ Name: Sebastian Fave
 ## Module 10 - How to Succeed in This Course
 
 - Deliverable: Google Doc reflecting on expected personal hurdle during bootcamp
--
+- complete
 
 ## Module 11 - Becoming Employable
 
